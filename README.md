@@ -14,19 +14,19 @@ A simple template to be able to create your own things. With all the necessary f
 🏓 Need help ?
 Join the support server by clicking here : https://discord.gg/d9Aftzckm7.
 
-
-Hello, everyone ;)
-I'm Christian! a french dev.
-If you want you can visit my Portfolio : https://mydevmood.com/
+<br><br><br><br>
+Hello, everyone ;)<br>
+I'm Christian! a french dev.<br>
+If you want you can visit my Portfolio : https://mydevmood.com/<br>
+ <br><br>
+ I like Animes and Mangas!<br>
+ <br><br>
+ I use and have learned HTML5, CSS3, a little Javascript and also a little PHP with MySQL for the databases.<br>
  
- I like Animes and Mangas!
- 
- I use and have learned HTML5, CSS3, a little Javascript and also a little PHP with MySQL for the databases.
- 
- <br>
+ <br><br>
  To contact me you can use this contact mail : contact@mydevmood.com<br>
  I will answer you as fast as possible ;)
- <br>
+ <br><br>
  <b>Useful links:</b><br>
  Portfolio : https://mydevmood.com<br>
  My Blog : soon(in developement)<br>
