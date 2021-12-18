@@ -31,4 +31,4 @@
  My Instagram (for my drawings) : https://www.instagram.com/christian_dessins/
  <br>
 <br><br><br>
-<img src="https://mydevmood.com/assets/img/favicon-animation.gif" draggable="false">
+<img src="https://mydevmood.com/assets/img/favicon-animation.gif" draggable="false" width="250px">
