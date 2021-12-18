@@ -17,10 +17,10 @@
  <br>
  To contact me you can use this contact mail : <b><a href="mailto:contact@mydevmood.com">contact@mydevmood.com</a></b>
  <br>
- I will answer you as fast as possible ;)
+ 🚀 I will answer you as fast as possible ;)
  <br>
  <br>
- <b>Useful links:</b>
+ 🌲 <b>Useful links:</b>
  <br>
  Portfolio : https://mydevmood.com
  <br>
