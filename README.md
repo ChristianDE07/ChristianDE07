@@ -23,12 +23,12 @@ If you want you can visit my Portfolio : https://mydevmood.com/
  
  I use and have learned HTML5, CSS3, a little Javascript and also a little PHP with MySQL for the databases.
  
- 
- To contact me you can use this contact mail : contact@mydevmood.com
+ <br>
+ To contact me you can use this contact mail : contact@mydevmood.com<br>
  I will answer you as fast as possible ;)
- 
- <b>Useful links:</b>
- Portfolio : https://mydevmood.com
- My Blog : soon(in developement)
- My Sploofi Discord Bot : https://sploofi.mydevmood.com
- My Instagram (for my drawings) : https://www.instagram.com/christian_dessins/
+ <br>
+ <b>Useful links:</b><br>
+ Portfolio : https://mydevmood.com<br>
+ My Blog : soon(in developement)<br>
+ My Sploofi Discord Bot : https://sploofi.mydevmood.com<br>
+ My Instagram (for my drawings) : https://www.instagram.com/christian_dessins/<br>
