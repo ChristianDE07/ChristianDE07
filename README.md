@@ -24,7 +24,7 @@
  <br>
  Portfolio : https://mydevmood.com
  <br>
- My Blog : soon(in developement)
+ My Blog : https://bloggy.mydevmood.com
  <br>
  My Sploofi Discord Bot : https://sploofi.mydevmood.com
  <br>
