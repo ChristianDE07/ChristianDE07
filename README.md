@@ -5,7 +5,7 @@
  If you want you can visit my Portfolio : https://mydevmood.com/
  <br>
  <br>
- 🧐 I am currently working on : <b>creating a blog from scratch ;)</b>
+ 🧐 I am currently working on : <b>developping web apps and websites for my portfolio and training ;)</b>
  <br>
  I like Animes and Mangas!
  <br>
