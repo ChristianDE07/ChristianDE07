@@ -12,7 +12,7 @@
  The best anime serie for me is <b>Demon Slayer 👺</b> because the animation and the story are really good!
  <br>
  <br>
- I use and have learned <b>HTML5</b>, <b>CSS3</b>, a little <b>Javascript</b> and also a little <b>PHP</b> with <b>MySQL</b> for the databases.
+ I use and learnt <b>HTML5</b>, <b>CSS3 (SCSS)</b>, a <b>Javascript</b>, <b>React</b> and also a little <b>PHP</b> with <b>MySQL</b> for the databases.
  <br>
  <br>
  To contact me you can use this contact mail : <b><a href="mailto:contact@mydevmood.com">contact@mydevmood.com</a></b>
