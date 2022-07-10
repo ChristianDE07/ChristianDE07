@@ -12,7 +12,7 @@
  The best anime serie for me is <b>Demon Slayer 👺</b> because the animation and the story are really good!
  <br>
  <br>
- I use and learnt <b>HTML5</b>, <b>CSS3 (SCSS)</b>, a <b>Javascript</b>, <b>React</b> and also a little <b>PHP</b> with <b>MySQL</b> for the databases.
+ I use and learn <b>HTML5</b>, <b>CSS3 (SCSS)</b>, a <b>Javascript</b>, <b>React</b>, <b>Next JS</b>, <b>Markdown</b>, <b>APIs</b>, <b>MongoDB</b> and also a little bit <b>PHP</b> with <b>MySQL</b> for the databases.
  <br>
  <br>
  To contact me you can use this contact mail : <b><a href="mailto:contact@mydevmood.com">contact@mydevmood.com</a></b>
@@ -26,9 +26,4 @@
  <br>
  My Blog : https://bloggy.mydevmood.com
  <br>
- My Sploofi Discord Bot : https://sploofi.mydevmood.com
- <br>
  My Instagram (for my drawings) : https://www.instagram.com/christian_dessins/
- <br>
-<br><br><br>
-/* <img src="https://assets.mydevmood.com/img/favicon-animation.gif" draggable="false" width="50px"> */
